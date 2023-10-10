@@ -11,6 +11,8 @@ No installation needed. Landing page is static and is hosted on Github.
 
 Website for Horiseon, used to advertise their SEO, Social media marketing and online reputation services.
 
+Deployed at : https://shinyuta.github.io/milestone-1-bootcamp/
+
 ## Credits
 
 Xander (https://github.com/Xandromus) - starter code.
