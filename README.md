@@ -1,4 +1,3 @@
-# Code Refactor Starter Code
 ## Introduction
 
 This is the first module of the bootcamp. We need to refactor code given to use to make a better user experience.
